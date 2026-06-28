@@ -17,7 +17,6 @@ Outside of programming, I find mathematics the most fascinating and enjoyable su
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Abdelmoniem-AA&icon=7&color=11)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
